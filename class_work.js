@@ -244,10 +244,67 @@
 
 
 
-console.log("Lifting weights repetitions 1 👻");
-console.log("Lifting weights repetitions 2 👻");
-console.log("Lifting weights repetitions 3 👻");
+// console.log("Lifting weights repetitions 1 👻");
+// console.log("Lifting weights repetitions 2 👻");
+// console.log("Lifting weights repetitions 3 👻");
 
-for (let rep = 1; rep <= 30; rep++) {
-    console.log(`Lifting weights repetitions ${rep} 👻`)
-}
+// for (let rep = 1; rep <= 30; rep++) {
+//     console.log(`Lifting weights repetitions ${rep} 👻`)
+// }
+
+
+
+// var date = new Date();
+
+
+// date.setMinutes(42);
+// date.setFullYear(23);
+// console.log(date.getFullYear());
+// console.log(date.getHours());
+// console.log(date.getMinutes());
+
+// var arr = [70, 534,5, 9,7, 12];
+// // console.log(arr.join("==="));
+// console.log(arr.sort())
+
+// class Person {
+//     constructor(name, age, happiness){
+//         this.name = name;
+//         this.age = age;
+//         this.happiness = happiness
+//     }
+//     info() {
+//         console.log("Имя" + this.name + "Возраст" + this.age)
+//     }
+// }
+
+// var aliya = new Person("Aliya", 18, true);
+// aliya.info();
+
+
+// const massive = [2, 634, 23, 2352];
+// // massive.push(12);
+// // console.log(massive)
+
+// const massive2 = massive.slice();
+// massive2.push("assd")
+// console.log(massive2)
+
+// const sedan = {
+//     color:'gray', 
+//     volume: 1
+// }
+
+// const mers = {
+//     enginePower: 200, 
+//     volume: 2
+// }
+
+// const camry = {
+//     number: 123
+// }
+
+// Object.setPrototypeOf(mers, sedan);
+// console.log(mers.volume)
+
+// console.log(sedan.number)
